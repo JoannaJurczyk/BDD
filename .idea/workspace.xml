@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0209699e-c4f0-4aef-9a9e-1ecc1e308849" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fUlA2eAoWYsQNQyC3eMnNMrXtO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Cucumber java.Scenario: Pass once again new argument">
+    <configuration name="Scenario: Pass once again new argument" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Test.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="zdautpol1" />
+      <option name="NAME_FILTER" value="^Pass once again new argument$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Pass once again new argument$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Pass once again new argument" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Passing arguments to test methods" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Test.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="zdautpol1" />
+      <option name="NAME_FILTER" value="^Passing arguments to test methods$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Passing arguments to test methods$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Passing arguments to test methods" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Taxi driver should be able to upload photo" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Test.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="zdautpol1" />
+      <option name="NAME_FILTER" value="^Taxi driver should be able to upload photo$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Taxi driver should be able to upload photo$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Taxi driver should be able to upload photo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Scenario: Pass once again new argument" />
+        <item itemvalue="Cucumber java.Scenario: Passing arguments to test methods" />
+        <item itemvalue="Cucumber java.Scenario: Taxi driver should be able to upload photo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0209699e-c4f0-4aef-9a9e-1ecc1e308849" name="Default Changelist" comment="" />
+      <created>1596280404906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596280404906</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="258" key="GridCell.Tab.0.bottom" timestamp="1596352913749">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="290" key="GridCell.Tab.0.bottom/0.23.1440.824@0.23.1440.824" timestamp="1596304512131" />
+    <state width="1878" height="258" key="GridCell.Tab.0.bottom/238.1103.1440.824/0.23.1920.1057@0.23.1920.1057" timestamp="1596352913749" />
+    <state width="1878" height="258" key="GridCell.Tab.0.center" timestamp="1596352913747">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="290" key="GridCell.Tab.0.center/0.23.1440.824@0.23.1440.824" timestamp="1596304512130" />
+    <state width="1878" height="258" key="GridCell.Tab.0.center/238.1103.1440.824/0.23.1920.1057@0.23.1920.1057" timestamp="1596352913747" />
+    <state width="1878" height="258" key="GridCell.Tab.0.left" timestamp="1596352913746">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="290" key="GridCell.Tab.0.left/0.23.1440.824@0.23.1440.824" timestamp="1596304512130" />
+    <state width="1878" height="258" key="GridCell.Tab.0.left/238.1103.1440.824/0.23.1920.1057@0.23.1920.1057" timestamp="1596352913746" />
+    <state width="1878" height="258" key="GridCell.Tab.0.right" timestamp="1596352913748">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="290" key="GridCell.Tab.0.right/0.23.1440.824@0.23.1440.824" timestamp="1596304512131" />
+    <state width="1878" height="258" key="GridCell.Tab.0.right/238.1103.1440.824/0.23.1920.1057@0.23.1920.1057" timestamp="1596352913748" />
+    <state x="744" y="197" key="SettingsEditor" timestamp="1596281773035">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="744" y="197" key="SettingsEditor/238.1103.1440.824/0.23.1920.1057@0.23.1920.1057" timestamp="1596281773035" />
+    <state x="630" y="386" key="com.intellij.ide.util.TipDialog" timestamp="1596352605606">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="630" y="386" key="com.intellij.ide.util.TipDialog/238.1103.1440.824/0.23.1920.1057@0.23.1920.1057" timestamp="1596352605606" />
+    <state x="746" y="530" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1596281943564">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="746" y="530" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/238.1103.1440.824/0.23.1920.1057@0.23.1920.1057" timestamp="1596281943564" />
+  </component>
+</project>
